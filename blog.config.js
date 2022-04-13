@@ -41,7 +41,7 @@ const BLOG = {
     gitalkConfig: {
       repo: 'nobelium', // The repository of store comments
       owner: 'Lemonawa',
-      admin: [Lemonawa],
+      admin: ['Lemonawa'],
       clientID: 'd428c6e4b1c19d35a4e9',
       clientSecret: 'e840a379d4a3eb51688ff436f19cd93ea3964b9f',
       distractionFreeMode: false
