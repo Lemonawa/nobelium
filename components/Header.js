@@ -58,6 +58,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
   }, [sentinalRef])
   return (
     <>
+      <script async defer data-website-id="f6c400f6-6b53-4c52-8dc4-ddcaffc9a4a5" src="https://umami.lemonawa.xyz/umami.js"></script>
       <div className="observer-element h-4 md:h-12" ref={sentinalRef}></div>
       <div
         className={`sticky-nav m-auto w-full h-6 flex flex-row justify-between items-center mb-2 md:mb-12 py-8 bg-opacity-60 ${
