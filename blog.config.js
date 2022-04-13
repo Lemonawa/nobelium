@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Blog of Lemonawa',
+  title: 'Lemonawa Blog',
   author: 'Lemonawa',
   email: 'lemonawa1209@gmail.com',
   link: 'https://lemonawa.xyz',
-  description: 'A Stupid Middle School Student',
+  description: 'A blog created by Lemonawa',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
