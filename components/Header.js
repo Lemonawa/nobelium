@@ -58,6 +58,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
   }, [sentinalRef])
   return (
     <>
+      <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "cebf1ea665a24d2cbdd888f0eb725639"}'></script>
       <script async defer data-website-id="f6c400f6-6b53-4c52-8dc4-ddcaffc9a4a5" src="https://umami.lemonawa.xyz/umami.js"></script>
       <div className="observer-element h-4 md:h-12" ref={sentinalRef}></div>
       <div
